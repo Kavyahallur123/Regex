@@ -8,5 +8,6 @@ public class UserRegistration {
         validateUserInfo.checkFirstName();
         validateUserInfo.checkLastName();
         validateUserInfo.checkEmail();
+        validateUserInfo.checkMobileNumber();
     }
 }
